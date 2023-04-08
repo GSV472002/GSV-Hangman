@@ -1,4 +1,4 @@
-# |  GSV_HANGMAN V1.0   |
+# |  🎮 🧗🏾GSV_HANGMAN V1.0 🧗🏾🎮  |
 
 [#ENG]:
    - This is the classic hangman man game for the console written in the <ins>Java</ins> Language
