@@ -1,8 +1,5 @@
-# ___________________
-#                      |  
-#   GSV_HANGMAN V1.0   |
-#                      |
------------------------
+# |  GSV_HANGMAN V1.0   |
+
 [#ENG]:
    - This is the classic hangman man game for the console written in the Java Language
    - This is the first version, maybe in the future I will update if I come up with an ideea
